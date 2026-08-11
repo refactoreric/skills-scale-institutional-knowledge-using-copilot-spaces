@@ -1,0 +1,8 @@
+This pull request adds docs/README.md as a centralized index and introduction to OctoAcme's project management process documents.
+
+The README includes:
+- A brief overview of OctoAcme's project lifecycle and approach
+- A summary of key workflows, roles, communication cadence, and quality practices
+- Links to the existing process documents in docs/
+
+Closes #2
